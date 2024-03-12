@@ -1,18 +1,18 @@
 import { createServer } from "http";
 import fetch from "node-fetch";
 
-const PORT = process.env.PORT
+const PORT = process.env.PORT || 4000
 
 createServer(async (req, res) => {
     try {
         const imageUrl = req.url.slice(1);
-        console.log(imageUrl)
         if (imageUrl !== "") {
             const response = await fetch(imageUrl, {
                 headers: {
                     referer: "https://www.nettruyenmax.com",
                 },
             });
+            console.log(`Succesful a request<3`)
             res.writeHead(response.status, response.headers);
             response.body.pipe(res);
         }
