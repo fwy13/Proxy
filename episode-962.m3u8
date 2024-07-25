@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080,AUDIO="audio"
+https://ipfs.animeui.com/ipfs/bafybeidimmmamlgmu3sxydntzscuxadpm4wlpcb47zkd6izeyc3tmjqzqa/1920x1080.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="undefined",NAME="Japanese",DEFAULT=true,AUTOSELECT=true,URI="https://ipfs.animeui.com/ipfs/bafybeiarb2mvaudt7xmk3jz2czrgphp2dslvi4stpsjqvolnz76rxx6s6y/audio.m3u8"
