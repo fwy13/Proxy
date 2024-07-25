@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1:BANDWIDTH=1000000,RESOLUTION=854x480,AUDIO="audio"
+https://ipfs.animeui.com/ipfs/bafybeieuwmu2o4kb7d4er3keofkdpntbnnfcggm4ais6dqyzbmdnrbiehm/854x480.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1:BANDWIDTH=5000000,RESOLUTION=1280x720,AUDIO="audio"
+https://ipfs.animeui.com/ipfs/bafybeiel2o53suwg47r4acu3r35vu2cev3x3gzbple75smafhq37dnoujm/1280x720.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1:BANDWIDTH=8000000,RESOLUTION=1920x1080,AUDIO="audio"
+https://ipfs.animeui.com/ipfs/bafybeiatsofxibo73vxa75td4b7nhkednwtkc7wfgqokw5yiv3jc4xvpc4/1920x1080.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="undefined",NAME="Japanese",DEFAULT=true,AUTOSELECT=true,URI="https://ipfs.animeui.com/ipfs/bafybeifo5whpex2hgonpmmro2a6n2lie2naqrzrdktew24xm5x4v45tski/audio.m3u8"
