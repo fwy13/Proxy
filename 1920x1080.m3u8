@@ -300,3 +300,4 @@ https://ipfs.animeui.com/ipfs/bafybeiatmug5hmkuwdhpwm6npogyg55h7a4fsu6mj5uuyynyv
 #EXTINF:2.460956,
 https://ipfs.animeui.com/ipfs/bafybeiatmug5hmkuwdhpwm6npogyg55h7a4fsu6mj5uuyynyv5x6zgi5mi/crunchy_G6JQC1ZXV_E3_1080p_147.ts
 #EXT-X-ENDLIST
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="undefined",NAME="Japanese",DEFAULT=true,AUTOSELECT=true,URI="https://ipfs.animeui.com/ipfs/bafybeifo5whpex2hgonpmmro2a6n2lie2naqrzrdktew24xm5x4v45tski/audio.m3u8"
